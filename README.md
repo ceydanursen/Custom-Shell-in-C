@@ -1,5 +1,6 @@
 # Custom-Shell-in-C
-##Installation
+
+##__Installation__
 
 Before running the below commands, make sure you have  
 
@@ -11,4 +12,5 @@ Run the following commands to start the shell.
 
 Inline 'code'
   $ make
+  
   $ ./shell
